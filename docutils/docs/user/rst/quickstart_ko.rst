@@ -44,11 +44,11 @@ HTML 변환기는 이러한 일관된 패턴들을 웹 브라우저에서 읽을
 
 결과:
 
-  이것은 짧은 한 문단이다.
+이것은 짧은 한 문단이다.
 
-    이 부분은 글을 들여썼을 때의 결과를 나타내며, 주로 다른 문서를 인용할 때 사용된다.
+  이 부분은 글을 들여썼을 때의 결과를 나타내며, 주로 다른 문서를 인용할 때 사용된다.
 
-  이것은 또 다른 문단이다.
+이것은 또 다른 문단이다.
 
 __ quickref_ko.html#paragraphs
 
@@ -58,7 +58,7 @@ __ quickref_ko.html#paragraphs
 
 (quickref__)
 
-__ quickref_ko.html#inline-markup
+__ https://veranostech.github.io/docs-korean-docutils/docutils/docs/user/rst/quickref_ko.html#inline-markup
 
 문단이나 본문 내에서 글을 추가적으로 **두껍게**\ 하거나 *이탈릭체*\ 로 표시하기 위해
 "``**bold**``"와 "``*italics*``"를 사용할 수 있다.
@@ -77,13 +77,13 @@ reStructuredText는 상당히 똑똑한 언어이므로 문서에서 특수 문�
 
     ``*``
 
-__ quickref_ko.html#escaping
+__ https://veranostech.github.io/docs-korean-docutils/docutils/docs/user/rst/quickref_ko.html#escaping
 
 .. Tip:: 인라인 마크업은 "( )" 괄호처럼 생각하고 사용하라. 즉, 마크업 될 글의 앞과 뒤에 바로 써라.
-         공백 문자로 둘러 쌓이거나 단어의 중간에 있는 인라인 마크업은 인식되지 않는다.
-         더 자세한 정보는 `markup spec`__ 에서 확인할 수 있다.
+         공백 문자로 둘러싸이거나 단어의 중간에 있는 인라인 마크업은 인식되지 않는다.
+         더 자세한 정보는 `마크업 규격`__ 에서 확인할 수 있다.
 
-__ ../../ref/rst/restructuredtext_ko.html#inline-markup
+__ ../../ref/rst/restructuredtext_ko.rst#inline-markup
 
 
 리스트(Lists)
