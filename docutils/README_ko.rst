@@ -1,4 +1,4 @@
-============================================
+﻿============================================
  README: 독유틸즈(Docutils) 0.15b.dev
 ============================================
 
@@ -24,7 +24,7 @@
 
 2. 최신 독유틸즈 코드를 사용한다. 코드는 `서브버전 레포지토리`_\ 나 다음 링크에서 얻을 수 있다.
 
-     http://docutils.svn.sourceforge.net/viewvc/docutils/trunk/docutils/?view=tar
+     https://sourceforge.net/p/docutils/code/HEAD/tree/trunk/docutils/
 
    자세한 내용은 아래의 `배포판과 스냅샷`_\ 을 참조한다.
 
@@ -304,7 +304,7 @@ GNU/리눅스, BSD, 유닉스, 맥 OS X 등
 실행하면 마침표(마침표 하나가 테스트 하나이다)가 길게 나오고 다음처럼 결과 요약이 출력된다.::
 
     Ran 1111 tests in 24.653s
-
+    
     OK
     Elapsed time: 26.189 seconds
 
@@ -343,7 +343,7 @@ GNU/리눅스, BSD, 유닉스, 맥 OS X 등
 
 .. _독유틸즈 사용자: docs/user/mailing-lists.html#docutils-users
 
-
+
 ..
    Local Variables:
    mode: indented-text
